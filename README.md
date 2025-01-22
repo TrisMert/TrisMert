@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [My resume](My resume)
 
-- ⚡ Fun fact **After university I worked in Advertising.**
+- ⚡ Fun fact: **After university I worked in Advertising.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
