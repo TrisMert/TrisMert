@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **landing a job as a Data Analyst**
 
-- 👨‍💻 I am a certified Data Analyst Consultant [Data Analyst Consultant](https://www.linkedin.com/in/tristan-mertins/details/education/1737396940364/single-media-viewer/?profileId=ACoAAC5AEHMBrH8FiXs9ApANclpqj9tdIygxX3o)
+- 👨‍💻 I am a certified [Data Analyst Consultant](https://www.linkedin.com/in/tristan-mertins/details/education/1737396940364/single-media-viewer/?profileId=ACoAAC5AEHMBrH8FiXs9ApANclpqj9tdIygxX3o)
 
 - 📄 Know about my experiences: [My resume](My resume)
 
